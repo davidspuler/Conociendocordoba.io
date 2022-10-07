@@ -1,0 +1,141 @@
+html{
+	scroll-behavior: smooth;
+}
+
+body{
+	font-family: helvetica, verdana, calibri;
+}
+
+header, section, footer {
+width: 100%;
+margin-left: auto;
+margin-right: auto;
+}
+
+header{
+
+	height: 100vh;
+	background-image:url( imagenes/portada2.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+    background-position: center;
+	
+}
+
+
+#portada h1{
+	text-align: center;
+	letter-spacing: 0.1em;
+	font-size: 100px;
+	padding-top: 230px;
+	color: #fff;
+	font-family:  'Archivo Black';
+	font-weight: bold;
+	text-decoration:none;
+}
+
+#portada h2{
+	text-align: center;
+	letter-spacing: 0.2em;
+	font-size: 50px;
+	padding-bottom: 120px;
+	color: #fff;
+	font-family:  'Archivo Black';
+	font-weight: bold;
+}
+
+#menu{
+	text-align: center;
+	margin: 20px;
+}
+
+#menu ul{
+	list-style-type: none;
+}
+
+#menu ul li{
+	display: inline;
+}
+
+#menu ul li a{
+	font-size: 20px;
+	padding: 30px;
+	color: #fff;
+	text-decoration: none;
+}
+
+#Galeria h3{
+	text-align: center;
+	padding-top: 15px;
+	padding-bottom: 12px;
+	font-size: 30px;
+}
+
+#caja {
+	
+	width: 1200px;
+	margin-left:80px;
+	margin-bottom: 20px;
+	
+}
+
+#caja p{
+	text-align: center;
+	font-size: 20px;
+	padding-top: 10px;
+}
+#caja p a{
+	list-style-type: none;
+	text-decoration: none;
+	color: #000;
+	font-weight: bold;
+}
+
+#caja1 {
+	width: 1200px;
+	margin-left: 15px;
+}
+
+
+footer h2 {
+    background-color: aquamarine;
+    text-align: center;
+}
+
+footer p {
+    text-align: center;
+}
+
+#redes{
+	margin-top:50 ;
+    text-align: center;
+}
+
+#redes{
+    width: 1320px;
+	height: 50px;
+	float: left;
+	margin-left: 180px;
+    margin-top: 40;
+
+}
+
+#redes{
+	margin:0;
+	padding: 0px;
+	padding-bottom: 70px;
+	list-style-type: none;  
+}
+
+#redes ul li{
+	display: inline;
+}
+
+#redes ul li a{
+	display: inline-block;
+	padding: 1px 5px;
+	text-decoration: none;
+	color:#fff;
+	font-weight: bold;
+}
