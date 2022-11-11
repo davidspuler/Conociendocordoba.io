@@ -1,0 +1,11 @@
+.warning{
+	width: 200px;
+	text-align: center;
+	margin: auto;
+	color: red;
+	padding-top: 20px;
+}
+
+input:invalid {
+	border: 4px solid red;
+  }
