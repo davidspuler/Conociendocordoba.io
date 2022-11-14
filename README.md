@@ -7,4 +7,4 @@ La rama *DESARROLLADORES* se utilizo como carpeta de prueba donde se fue dando f
 
 En la sección *WIKI* se han dejado plasmadas las CEREMONIAS DE SCRUM, COMENTARIOS y ALGUNAS DOCUMENTACIONES.
 
-Tambien se encuentra en la wiki el video sobre la defensa del trabajo realizada por los integrantes del grupo.
+Tambien se encuentra en la wiki el video sobre la defensa del trabajo realizada por los integrantes del grupo, en la carpeta Video defensa del trabajo.
