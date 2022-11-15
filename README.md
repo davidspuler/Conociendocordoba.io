@@ -10,3 +10,7 @@ En la sección Wiki se han dejado plasmadas las CEREMONIAS DE SCRUM, COMENTARIOS
 Tambien se encuentra en la Wiki el video sobre la defensa del trabajo realizada por los integrantes del grupo, en la carpeta Video defensa del trabajo.
 
 Se agrega a la Wiki un enlace a la pagina realizada en Wordpress.
+
+Se agrega a la Wiki un enlace a la pagina del proyecto.
+
+
